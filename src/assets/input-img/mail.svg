@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="9.547" viewBox="0 0 13 9.547">
+    <defs>
+        <style>
+            .cls-1{fill:#c3c6d5}
+        </style>
+    </defs>
+    <g id="mail_1_" data-name="mail(1)" transform="translate(0 -68)">
+        <g id="Group_37" data-name="Group 37" transform="translate(0 68)">
+            <g id="Group_36" data-name="Group 36">
+                <path id="Path_99" d="M11.477 68H1.523A1.525 1.525 0 0 0 0 69.523v6.5a1.525 1.525 0 0 0 1.523 1.523h9.953A1.525 1.525 0 0 0 13 76.023v-6.5A1.525 1.525 0 0 0 11.477 68zm.508 8.023a.508.508 0 0 1-.508.508H1.523a.508.508 0 0 1-.508-.508v-6.5a.508.508 0 0 1 .508-.508h9.953a.508.508 0 0 1 .508.508z" class="cls-1" data-name="Path 99" transform="translate(0 -68)"/>
+            </g>
+        </g>
+        <g id="Group_39" data-name="Group 39" transform="translate(.496 68.633)">
+            <g id="Group_38" data-name="Group 38">
+                <path id="Path_100" d="M30.924 92.937l-5.4 4.015-5.4-4.015-.606.815 6 4.466 6-4.466z" class="cls-1" data-name="Path 100" transform="translate(-19.522 -92.937)"/>
+            </g>
+        </g>
+    </g>
+</svg>

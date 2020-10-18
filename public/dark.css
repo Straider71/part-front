@@ -1,0 +1,27 @@
+:root {
+  --primary-color: #5c77c7;
+  --second-color: #e6e9ef;
+  --bg-primary: #14162b;
+  --bg-second: #2f3654;
+
+  --primary-shadow: 0 0 0 0 #14162b;
+  --blue-shadow: 0 2px 5px 0 rgba(69, 112, 245, 0.6);
+
+  --primary-text: #6b77b1;
+  --second-text: #bec2d8;
+  --white-text: #ffffff;
+  --green-text: #05d667;
+  --dark-text: #7985b5;
+  --gray-text: #b8b7b7;
+  --light-gray-text: #c3c6d5;
+}
+
+/* :root {
+  filter: invert(1) hue-rotate(180deg);
+}
+
+img,
+p:not(.select-box__input-text),
+a {
+  filter: invert(1) hue-rotate(180deg);
+} */

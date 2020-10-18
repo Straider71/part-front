@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+    <defs>
+        <clipPath id="clip-path">
+            <circle id="Ellipse_5" cx="13" cy="13" r="13" class="cls-1" data-name="Ellipse 5" transform="translate(-.439 -.439)"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:#e6e9f6}.cls-3{fill:#a9b4e5}
+        </style>
+    </defs>
+    <g id="avatar" transform="translate(-190.561 -16.561)">
+        <circle id="Ellipse_4" cx="13" cy="13" r="13" class="cls-1" data-name="Ellipse 4" transform="translate(190.561 16.561)"/>
+        <g id="Mask_Group_1" clip-path="url(#clip-path)" data-name="Mask Group 1" transform="translate(191 17)">
+            <g id="user_7_" data-name="user(7)" transform="translate(1.981 5.233)">
+                <g id="Group_4" data-name="Group 4" transform="translate(0 13.223)">
+                    <g id="Group_3" data-name="Group 3">
+                        <path id="Path_8" d="M16.365 308.272l-3.086-1.035a.721.721 0 0 0-.229-.038h-5.8a.718.718 0 0 0-.229.038l-3.086 1.035A5.778 5.778 0 0 0 0 313.763a.727.727 0 0 0 .725.729h18.85a.727.727 0 0 0 .725-.729 5.778 5.778 0 0 0-3.935-5.491z" class="cls-3" data-name="Path 8" transform="translate(0 -307.199)"/>
+                    </g>
+                </g>
+                <g id="Group_6" data-name="Group 6" transform="translate(5.774)">
+                    <g id="Group_5" data-name="Group 5">
+                        <path id="Path_9" d="M140.909 0a4.376 4.376 0 0 0-4.376 4.376v2.917a4.376 4.376 0 0 0 8.751 0V4.376A4.376 4.376 0 0 0 140.909 0z" class="cls-3" data-name="Path 9" transform="translate(-136.533)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
